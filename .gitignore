@@ -1,0 +1,16 @@
+# build outputs of build_and_construct_comp.sh
+/cmix
+/cmix_*
+/run/
+/pgo_data/
+/prof_comp
+/prof_output
+*.o
+*.profraw
+*.profdata
+__pycache__/
+/cpp_infer/bin/
+/cpp_infer/data/
+/data/
+/logs/
+/.venv/
